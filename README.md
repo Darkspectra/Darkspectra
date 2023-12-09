@@ -1,7 +1,6 @@
-### Hi there 👋
+### Static Overview 👋
 
-<!--
-**Darkspectra/Darkspectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Darkspectra&theme=dark)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
