@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Farhan%20Tanvir%20Ahmed&fontSize=50&fontColor=fff&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+World+of+Innovation!;Software+Developer+%7C+ML+Enthusiast;Building+cool+things)](https://git.io/typing-svg)
 ![This is an illustrator on 3D Object](https://raw.githubusercontent.com/Darkspectra/Darkspectra/main/cover.jpg)
 # Static Overview 📊
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Darkspectra&theme=dark)](https://git.io/streak-stats)
